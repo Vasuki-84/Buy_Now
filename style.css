@@ -1,0 +1,19 @@
+ 
+    body{
+        padding-top : 10px;
+    }
+    .cart-icon{
+        position : relative;
+        font-size :medium;
+        cursor: pointer;
+    }
+    .badge {
+        position :absolute;
+        top: -13px;
+        right: -14px;
+        font-size: 0.75rem;
+
+    }
+
+    /* Notes: top,right,left,bottom - offsets or offset values */
+ 
